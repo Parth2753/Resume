@@ -69,7 +69,22 @@ This portfolio contains the following sections:
 </p>
 
 ---
+# 🔗 Connect With Me
+<div align="center">
 
+<a href="https://www.linkedin.com/in/parth-rohilla-b14919361/">
+<img src="https://img.shields.io/badge/LinkedIn-0077FF?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:parth.rohilla08@gmail.com">
+<img src="https://img.shields.io/badge/Email-FF004F?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/Parth2753">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+---
 ## 🎓 Education
 
 | Year | Institute | Course |
